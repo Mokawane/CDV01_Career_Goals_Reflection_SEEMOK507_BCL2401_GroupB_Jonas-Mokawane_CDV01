@@ -41,26 +41,46 @@
       3. Risks of Cloud engineering
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - My biggest obsession is seeing my country being part, if not leading global cybersecurity experts.
+      With that being said that's where my desire for tech started and chose myself as i believe i can play
+      the bigger role in making that happen, that's the reason i researched about the above mentioned,
+      and how i believe all of those they will play a major role in bringing my dreams to reality.  
+
+    - Diving deeper into this, industries roles and requirements.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - I want to see myself as a software developer after 10 months from now.
+    - 2 years from now i want to see myself as a full-stack junior software engineer.
+
+    - Within this periods i believe i could aquire this goals as i have sufficiant time to persue them.
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - 3-5 years and boyond from now i want to see myself as data architect and cybersecurity junior engineer.
+
+    - I want to provide data and cybersecurity solutions and secure internet serving.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+    - In 6 months period: I want master all HTML, CSS and Javascript( fundementals and DOM           manipulation)
+    - In 8 months period: I want to be confident in application of advanced Javascript               concepts and work with APIs.
+    - In 10 months period: I want to specialise in Git version control and use build tools           such as webpack.
+    - In 12 months period: I want to be ecxessively building practical projects, freelancing         and continue learning further.
+      **Resources**
     - Include any resources or support required.
+    - MDN Web Docs for HTML and CSS.
+    - Codecademy for interactive learning.
+    - JavaScript.info for in-depth JavaScript learning.
+    - W3Schools for DOM manipulation.
+    - Responsive Web Design by A List Apart.
+    -Documentation for chosen framework (React, Angular, or Vue.js) and other resources.
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
@@ -69,20 +89,14 @@
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
-    
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
-2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+2. 
+    - For personal projects for long term goals will be advanced equipments.
 
-### Submission
+    - Utilise open sources sites where possible.
+3. **Opportunities for Growth**:
+    
+    - Networking, participating in blogs such as Stackflow, reedit and others.
+    - Attend Seminars and find Mentorship
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
