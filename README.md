@@ -16,28 +16,45 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name**: Jonas Mokawane
+- **Date**: 05-March-2024
+- **Current Role/Position**: Software Engineering Student
+- **Field of Interest**: Full-stack Engineer
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - List your current skills and areas of expertise. My current skill is front-end developing and currently comfortable with building Web pages and web Apps.
+    - I still need to master my front-end developing skills and dive into back-end developing.
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
+       1. Problem solving
+       2. Programme Managing
+       3. Programming Languages and Testing codes
+       4. Understanding Algorithms
+       5. Cybersecurity
+       6. Networking
+       7. Teamwork
+   
     - What values are important to you in a work environment?
+    - 1. Communication
+      2. Teamwork
+      3. And time managing
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+    - 1. Cybersecurity
+      2. Data architect
+      3. Cloud engineering
+      4. Retail
+      5. Blockchain
     - Note any particular areas that piqued your interest.
+    - 1. cybersecurity
+      2. Data architech
+      3. Risks of Cloud engineering
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
